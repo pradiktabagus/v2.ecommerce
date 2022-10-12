@@ -5,6 +5,12 @@
     "mikestead.dotenv",
     "csstools.postcss",
     "bradlc.vscode-tailwindcss",
-    "Orta.vscode-jest"
+    "orta.vscode-jest",
+    "silofy.hackthebox",
+    "oderwat.indent-rainbow",
+    "streetsidesoftware.code-spell-checker",
+    "tabnine.tabnine-vscode",
+    "eamodio.gitlens",
+    "rvest.vs-code-prettier-eslint"
   ]
 }
