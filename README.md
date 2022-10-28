@@ -12,7 +12,7 @@ Clone this project and use it to create your own [Next.js](https://nextjs.org) p
 
 Developer experience first:
 
-- ⚡ [Next.js](https://nextjs.org) for Static Site Generator
+- ⚡ [Next.js](https://nextjs.org) for Static Site Generator version 13
 - 🔥 Type checking [TypeScript](https://www.typescriptlang.org)
 - 💎 Integrate with [Tailwind CSS](https://tailwindcss.com) and [styled-component](https://styled-components.com/)
 - ✅ Strict Mode for TypeScript and React 18
