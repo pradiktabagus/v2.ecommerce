@@ -24,4 +24,7 @@ module.exports = withBundleAnalyzer({
   images: {
     domains: process.env.CDN_URL.split(', '),
   },
+  experimental: {
+    appDir: false,
+  },
 });

@@ -1,3 +1,3 @@
 export default function Slider() {
-  return <div>slider</div>;
+  return <section>slider</section>;
 }
